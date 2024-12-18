@@ -1,0 +1,91 @@
+*{margin:auto;}
+.tong{
+	background: #18153A;
+	width:1150px;
+	height:11000px;
+}
+.anh{
+	float:left;
+	padding-left:50px
+}
+.menu ul li{
+	display: inline;
+	padding:5px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+.menu{
+	float:right;
+	padding-top:40px;
+}
+.menu{
+	padding-right:100px;
+}
+.timkiem{
+	float:right;
+	padding-top:40px
+}
+.FAST ul li {
+	display: inline;
+}
+
+.FAST ul li{
+	list-style: none;
+}
+.FA li{
+	padding: 70px;
+}
+.FAST{
+	padding-top: 200px; 
+}
+.FAST ul li {
+    display: inline-block; 
+    width: 230px; 
+	height:250px;
+    margin: 50px; 
+    padding: 10px; 
+    background-color:white;
+    color: black;
+}
+.DMSP ul h3 {
+display: inline;
+	padding:50px;
+}
+.DMSP ul h3 a{
+	text-decoration: none;
+	color: white;
+}
+.DMSP a{
+	text-decoration: none;
+	color: white;
+}
+.DMSP{
+	padding-top:180px;
+}
+.DMSP{
+	padding-left:350px;
+}
+.DM nav a{
+	float: left;
+}
+.DM nav a{
+	padding-left: 230px;
+}
+.DM nav a{
+	text-decoration: none;
+	color: white;
+}
+.a1{
+	padding-top: 10px;
+}
+.a2 {
+	padding-top: 20px;
+}
+.ĐAN{
+	color:white;
+}
+
+
+
